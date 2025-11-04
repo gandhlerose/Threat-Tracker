@@ -11,9 +11,3 @@ ThreatTracker is a cybersecurity automation project that:
 - Log analysis & pattern recognition
 - Network scanning fundamentals
 - Automation & reporting
-
-# How to Run
-```bash
-git clone https://github.com/gandhlerose/ThreatTracker.git
-cd ThreatTracker
-python3 threattracker.py
